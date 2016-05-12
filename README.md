@@ -1,6 +1,8 @@
 # Pattern Locker
 A Vanilla JS implementation of a pattern locker
 
+Note: This is a WIP, it is not ready for a production environment
+
 ## Usage
 ```javascript
 var locker = new Locker({
