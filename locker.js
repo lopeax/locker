@@ -1,4 +1,6 @@
-// This is the class generator used
+/**
+ * Class generator to make use of prototype properties
+ */
 var Class = function(methods) {
     var c = function() {
         this.initialize.apply(this, arguments);
