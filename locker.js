@@ -2,6 +2,8 @@
  * Class generator to make use of prototype properties
  */
 var Class = function(methods) {
+    "use strict";
+
     var c = function() {
         this.initialize.apply(this, arguments);
     };
