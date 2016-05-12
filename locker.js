@@ -917,5 +917,3 @@ var Locker = Class({
         }
     }
 });
-
-var locker = new Locker();
